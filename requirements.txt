@@ -1,0 +1,5 @@
+WeChatPYAPI>=0.8.7
+notion-client>=2.0.0
+requests>=2.26.0
+beautifulsoup4>=4.10.0
+python-dotenv>=0.19.0  # 可选，用于环境变量加载
